@@ -18,6 +18,9 @@
             <div>Hospital Monte Esperanza</div> <!-- Título del formulario -->
         </div>
         <br>
+        
+          <!-- HOLA SOY EL GONZAAAAAAAAAAAAAA -->
+
         <div class="login"> <!-- Contenedor para los campos de entrada -->
             <!-- Campo de entrada para el RUT del usuario -->
             <input type="text" placeholder="Ingrese RUT" name="rut" required><br>
